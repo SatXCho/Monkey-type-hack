@@ -1,2 +1,7 @@
 # Monkey-type-hack
-cheating on a typing test with python
+Cheating on a typing test with python
+
+
+
+You first have to install tesseract and get it's path from https://github.com/UB-Mannheim/tesseract/wiki
+And there's some must have python libs installed bla bla
