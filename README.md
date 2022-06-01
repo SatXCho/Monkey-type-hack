@@ -1,6 +1,9 @@
 # Monkey-type-hack
 Cheating on a typing test with python
 
+With this script you can get your sad 40wpm upto a whopping 100 or more!<br>
+This is clearly a cheat so you do you.
+
 
 
 You have to install tesseract first and get it's path from https://github.com/UB-Mannheim/tesseract/wiki<br>
