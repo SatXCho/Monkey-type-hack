@@ -13,7 +13,7 @@ pytesseract.pytesseract.tesseract_cmd = 'E:/tesseract/tesseract.exe'
 #going to the website
 
 webbrowser.open("https://monkeytype.com")
-time.sleep(5)
+time.sleep(8)#give more or less time depending on your internet and browser speed :)
 im = pyautogui.screenshot("monke.jpg")
 
 
